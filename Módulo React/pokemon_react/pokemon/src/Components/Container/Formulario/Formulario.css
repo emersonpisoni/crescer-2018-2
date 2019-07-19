@@ -1,0 +1,64 @@
+.title{
+    height: 30px;
+    width: 100%;
+}
+
+img{
+    max-width: 100%;
+}
+
+.card{
+    width: 220px;
+    height: 251px;
+    background-color: rgb(226, 226, 226);
+    box-shadow: 4px inset;
+    border-radius: 30px;
+    margin: 10px;
+    position: relative;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.container_img{
+    display: flex;
+    justify-content:  center;
+}
+
+.disabled{
+    width: 50%;
+    height: 50px;
+    border: 0px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.disabled:hover{
+    background-color: rgb(215, 240, 250);
+}
+
+.disabled:disabled{
+    background-color: black;
+    cursor: no-drop;
+    color: white;
+}
+
+.campo_obrigatorio{
+    color: red;
+}
+
+.nomeAdicionarTexto{
+    width: 60%;
+    text-align: center;
+    border: 0 0 4px 0;
+    box-shadow: 1px 1px inset;
+
+}
+
+.nomeAdicionar{
+    background-color: rgb(240, 241, 241);
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 40px;
+}

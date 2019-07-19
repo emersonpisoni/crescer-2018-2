@@ -1,0 +1,40 @@
+
+  
+  .image{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+
+  .image > img{
+    width: 45px;
+    height: 45px;
+  }
+   
+  .text{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .robotocond{
+    font-family: 'Roboto condensed';
+  }
+  
+  .raleway{
+    font-family: 'Raleway';
+  }
+  
+  .segoe{
+    font-family: 'Segoe UI';
+    color: #A5A9AC;
+    font-style: italic;
+  }
+  .user {
+    padding: 15px 0;
+    display: flex;
+    align-content: center;
+  }
+ 

@@ -1,0 +1,12 @@
+.cadastro{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 200px;
+    margin-left: 20%;
+    background-color:white;
+    border-radius: 2px;
+    font-family: monospace;
+    padding-top: 10px;
+}

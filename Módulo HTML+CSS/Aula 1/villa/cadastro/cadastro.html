@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <title>Criar Evento</title>
+    <link rel="stylesheet" href="../css/villa.css" />
+    <link rel="shortcut icon" href="../img/favicon.ico" />
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,500|Roboto+Condensed:300,700|Roboto:400i,500" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <input type="checkbox" id="menu-mostrar" class="checkbox-menu">
+        <div class="header">
+            <label for="menu-mostrar" class="menu-burguer">&#9776;</label>
+            <div class="header-logo">
+                <a href="../jaime.html">
+                    <img src="../img/group.png">
+                </a>
+            </div>
+            <div class="header-search">
+                <div class="header-lupa">
+                    <img src="../img/lupa.png">
+                </div>
+                <input type="text" class="text" placeholder="Pesquisar">
+            </div>
+            <div class="header-end">
+                <img src="../img/sino.png">
+            </div>
+        </div>
+
+        <input type="checkbox" id="menu-mostrar" class="checkbox-menu">
+
+        <div class="sidebar">
+            <div class="sidebar-perfil">
+                <div class="sidebar-image">
+                    <img src="../img/fome.jpg">
+                </div>
+                <div class="sidebar-name">
+                    José
+                </div>
+                <div class="sidebar-button">
+                    Meu Perfil
+                </div>
+            </div>
+            <div class="grupos">
+                <div class="grupos-header">
+                    <div class="grupos-meus">Meus grupos</div>
+                    <div class="grupos-opcoes">
+                        <img src="../img/pontos.png">
+                    </div>
+                </div>
+                <div class="grupos-grupo">
+                    <div class="grupos-image">
+                        <img src="../img/retangulo.png">
+                    </div>
+                    <div class="grupos-text">Comprei o Goku</div>
+                </div>
+                <div class="grupos-grupo">
+                    <div class="grupos-image">
+                        <img src="../img/retangulo.png">
+                    </div>
+                    <div class="grupos-text">Ontem</div>
+                </div>
+                <div class="grupos-grupo">
+                    <div class="grupos-image">
+                        <img src="../img/retangulo.png">
+                    </div>
+                    <div class="grupos-text">E o Freeza</div>
+                </div>
+                <div class="grupos-grupo">
+                    <div class="grupos-image">
+                        <img src="../img/retangulo.png">
+                    </div>
+                    <div class="grupos-text">Hoje</div>
+                </div>
+            </div>
+            <div class="evento">
+                <div class="grupos-header">
+                    <div class="grupos-meus">Eventos</div>
+                    <div class="grupos-opcoes">
+                        <div class="pontos-criar">
+                            <img class="pontinhos" src="../img/pontos.png">
+                            <ul class="submenu">
+                                <label>
+                                    <li>
+                                        <a href="#" id="ocultar">Ocultar</a>
+                                    </li>
+                                </label>
+                                <label>
+                                    <li>
+                                        <a href="#" id="criareventopontos">Criar evento</a>
+                                    </li>
+                                </label>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="user">
+                    <div class="image">
+                        <img src="../img/aracy.jpg">
+                    </div>
+                    <div class="text">
+                        <div class="robotocond">
+                            <strong>Aracy</strong> hoje</div>
+                        <div class="segoe">
+                            <small>Aniversário</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <input type="checkbox" id="menu-mostrar" class="checkbox-menu">
+        
+        <div class="cadastro">
+
+            <div>
+                <h1>Criar Evento</h1>
+            </div>
+
+
+            <form action="*" method="POST">
+                <div class="tipoevento">
+                    Tipo de Evento
+                    <div>
+                        <label>
+                            <input type="radio" name="evento"> Publico
+                        </label>
+                    </div>
+                    <div>
+                        <label>
+                            <input type="radio" name="evento"> Private
+                        </label>
+                    </div>
+                </div>
+
+                <div class="nomeevento">
+                    Nome do evento
+                    <div>
+                        <input type="text" class="text" placeholder="Digite o nome do evento">
+                    </div>
+                </div>
+                <div class="quandoevento">
+                    Quando irá acontecer?
+                    <div>
+                        <input type="date" class="date" placeholder="dd/mm/aaaa"> às
+                        <input type="time" class="time" placeholder="--:--">
+                    </div>
+                </div>
+                <div class="trajeevento">
+                    Traje
+                    <div>
+                        <select class="select" name="trajes">
+                            <option value="qualquer">Qualquer</option>
+                            <option value="qualquer">Qualquer</option>
+                            <option value="qualquer">Qualquer</option>
+                            <option value="qualquer">Qualquer</option>
+                        </select>
+                    </div>
+                </div>
+
+                <span>Convidar(opcional)</span>
+                <div class="cadastro-escolher">
+                    <label>
+                        <input type="checkbox" id="convidados" value="chaves">
+                        <span>Chaves</span>
+                        <img src="../img/chaves.png">
+                    </label>
+                    <label>
+                        <input type="checkbox" name="convidado" value="chiquinha">
+                        <span>Chiquinha</span>
+                        <img src="../img/chiquinha.png">
+                    </label>
+                    <label>
+                        <input type="checkbox" name="convidado" value="dona-florinda">
+                        <span>Dona Florinda</span>
+                        <img src="../img/donaflorinda.png">
+                    </label>
+                </div>
+                <div class="cadastro-button">
+                    <div>
+                        <input type="reset" class="cancelar" value="Cancelar">
+                    </div>
+                    <div>
+                        <input type="submit" class="criarevento" value="Criar evento">
+                    </div>
+                </div>
+            </form>
+        </div>
+
+
+
+
+
+    </div>
+</body>
+
+</html>

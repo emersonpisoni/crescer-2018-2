@@ -1,0 +1,11 @@
+h1{
+	font-family: Arial;
+}
+div{
+	background-color: black;
+	color: white;
+}
+marquee{
+	border:5px solid white;
+	border-color: white;
+}

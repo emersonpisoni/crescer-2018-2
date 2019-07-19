@@ -1,0 +1,64 @@
+verde{
+  background-image: linear-gradient(rgb(10, 179, 10), rgb(161, 247, 111), rgb(14, 182, 14))
+}
+
+amarelo{
+  background-color: yellow ;
+}
+
+rosa{
+  background-image: linear-gradient(rgb(245, 75, 216), rgb(255, 158, 226), rgb(250, 90, 202)) ;
+}
+
+laranja{
+  background-image: linear-gradient(orange, rgb(240, 202, 131), orange)
+}
+
+azul{
+  background-image: linear-gradient(rgb(54, 115, 228), rgb(109, 190, 245), rgb(31, 138, 226))
+}
+
+tag{
+  background-color: #353535fa;
+  color: #fff;
+  border-radius: 10%;
+}
+
+ul.circle{
+  list-style-type: circle;
+}
+
+sublinhar{
+  border-bottom: 2px solid rgb(76, 7, 204);
+}
+
+riscar{
+  text-decoration: line-through;
+  color: rgb(161, 161, 161);
+}
+
+p{
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family:"Crimson Text";
+  margin: 0;
+}
+
+p + p{
+  text-indent: 30px;
+}
+
+p.negrito{
+  font-weight: bold;
+}
+
+p.primeira::first-letter{
+  font-size: 300%;
+  float: left;
+  font-weight: bold;
+  line-height: 80%;
+}
+
+h3, h4, ul{
+  font-family: "Crimson Text";
+}

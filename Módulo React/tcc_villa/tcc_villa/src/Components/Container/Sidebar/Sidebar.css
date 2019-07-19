@@ -1,0 +1,422 @@
+  .header-logo{
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-search{
+    display: flex;
+    align-items: center;
+    width: 500px;
+    height: 100%;
+    margin: 0 10px;
+    font-family: 'Roboto';
+    background-color: #7E7E7E;
+    border-radius: 5px;
+    color: white;
+  }
+  
+  .header-end{
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-lupa{
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .text-title{
+    font-family: 'Raleway';
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-content: center;
+    padding: 10px 0;
+  }
+  
+
+  
+  
+  .like{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    border-right: 1px solid #C4C4C4;
+  
+  }
+  
+  .like-text{
+    height: 100%;
+    padding-left: 5px;
+  }
+  
+  .like-image{
+    height: 100%;
+  }
+
+  .sidebar{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    position: fixed;
+    top: 80px;
+    background-color: white;
+    width: 20%;
+    height: 100%;
+    left: 0;
+    min-width: 245px;
+    justify-content: flex-start;
+    z-index: 1;
+  }
+  
+  .sidebar-perfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:  30px 0; 
+    border-bottom: 1px solid #C4C4C4;
+  }
+  
+  .sidebar-image{
+    overflow: hidden;
+    align-content: center;
+    width: 245px;
+    height: 245px;
+    display: flex;
+  }
+  
+  .sidebar-image > img{
+    border-radius: 50%;
+    border: 3px solid black;
+    box-shadow: #32363F;
+  }
+  
+  .sidebar-name{
+    font-family: 'Raleway';
+    padding: 10px;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .sidebar-button{
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+    width: 80%;
+    height: 50px;
+    padding: 0 30px;
+    background-color: rgb(107, 107, 109);
+    cursor: pointer;
+  }
+  
+  .sidebar-button:hover{
+    background-color: rgb(108, 198, 247);
+    color: black;
+  }
+
+  .feed{
+    display: flex;
+    padding: 11px;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: center;
+  }
+
+  .tipoevento, .nomeevento, .quandoevento, .trajeevento{
+    padding: 20px 0;
+  }
+  
+  input.text{
+    width: 30%;
+    height: 56px;
+  }
+  
+  .header-search > input.text{
+    height: 44px;
+    background-color: #7E7E7E;
+    width: 100%;
+  }
+  
+  .header-search > ::-webkit-input-placeholder{
+    color: white;
+  }
+  
+  input.date{
+    height: 56px;
+    width: 30%;
+  }
+  
+  input.time{
+    height: 56px;
+    width: 15%;
+  }
+  
+  select{
+    height: 56px;
+    width: 30%
+  }
+  
+  input.cancelar{
+    font-family: 'Roboto';
+    color: white;
+    height: 50px;
+    background-color: #929292;
+    border-radius: 3px;
+    width: 100%;
+    border: 0;
+  }
+  
+  input.cancelar:hover{
+    font-family: 'Roboto';
+    color: white;
+    height: 50px;
+    background-color: #A5A9AC;
+    border-radius: 3px;
+    width: 100%;
+    border: 1px solid turquoise;
+  }
+  
+  input.criarevento{
+    border: 0;
+    font-family: 'Roboto';
+    color: white;
+    height: 50px;
+    background-color: #32363F;
+    border-radius: 3px;
+    width: 100%;
+  }
+  
+  input.criarevento:hover{
+    font-family: 'Roboto';
+    color: white;
+    height: 50px;
+    background-color: #5C5C5C;
+    border-radius: 3px;
+    width: 100%;
+    border: 1px solid turquoise;
+  }
+  
+  .evento{
+    padding:  30px 0; 
+  }
+  
+  .text{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .robotocond{
+    font-family: 'Roboto condensed';
+  }
+  
+  .raleway{
+    font-family: 'Raleway';
+  }
+  
+  .segoe{
+    font-family: 'Segoe UI';
+    color: #A5A9AC;
+    font-style: italic;
+  }
+  .user {
+    padding: 15px 0;
+    display: flex;
+    align-content: center;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  
+  .button{
+    font-family: 'Roboto';
+    font-size: 16px;
+    display: flex;
+    width: 100%;
+    height: 70px;
+    align-items: center;
+    justify-content: space-around;
+    color: #929292;
+  }
+  
+  .btn_alterar_usuario{
+    outline: none;
+    height: 30px;
+    background-color: #32363F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px 30px;
+    bottom: 3px;
+    cursor: pointer;
+  }
+
+  .btn_alterar_usuario:hover{
+    background-color: rgb(108, 198, 247);
+    color: black;
+  }
+  
+  .image-post{
+    display: flex;
+    margin: 5px 0;
+    align-items: center;
+  }
+  
+  .menu-burguer, .checkbox-menu{
+    position: fixed;
+    display: none;
+    top: 3%;
+    left: 5%;
+  }
+  
+  .menu-burguer{
+    font-size: 250%;
+    position: relative;
+  }
+  
+  .amarelo{
+    display: none;
+  }
+  
+  .criareventopontos{
+    width: 8%;
+    transform: translateX(-100%);
+    position: absolute;
+  }
+  
+  .pontos-criar{
+    position: relative;
+    margin-left: auto;
+    width: 50%;
+  }
+  
+  .pontos-criar:hover .submenu{
+      display: block;
+  }
+  
+  @media (max-width: 1000px){
+  
+    .card{
+        width: 100%;
+    }
+  }
+  
+  @media (max-width: 800px){
+  
+    #pontos-criar:hover .criareventopontos{
+        transform: translateX(0);
+    }
+  
+    .menu-burguer{
+        display: block;
+    }
+  
+    #menu-mostrar:checked ~ .sidebar{
+        transform: translateX(0);
+        transition: cubic-bezier(0.075, 0.82, 0.165, 1) .5s;
+        box-shadow: 100px 0px 50px rgba(0, 0, 0, 0.25);
+        position: absolute;
+        min-height: 900px;
+    }
+  
+    #menu-mostrar:checked ~ .header{
+        color: yellow;
+    }
+  
+    #menu-mostrar:checked ~ .cadastro{
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+    
+    .header-logo{
+        flex: 1;
+        justify-content: center;
+        padding-left: 20px;
+    }
+  
+    .header-logo > img{
+        max-width: 80%;
+    }
+  
+    .header-search{
+        display: flex;
+        align-items: center;
+        width: 100px;
+        height: 100%;
+        margin: 0 10px;
+        font-family: 'Roboto';
+        background-color: #7E7E7E;
+        border-radius: 5px;
+        color: white;
+    }
+  
+    .header-search > ::-webkit-input-placeholder{
+        color: #7E7E7E;
+    }
+  
+    .sidebar{
+        transform: translateX(-120%);
+        transition: cubic-bezier(0.075, 0.82, 0.165, 1) .5s;
+        flex-direction: column;
+        padding: 10px;
+        position: absolute;
+        background-color: #32363F;
+        color: white;
+        width: 75%;
+        height: 100%;
+        left: 0;
+        top: 80px;
+        min-width: 245px;
+        justify-content: flex-start;
+  
+    }
+  
+    .container{
+        flex-direction: column;
+        margin: 0;
+        align-items: center;
+    }
+  
+    .feed, .cadastro{
+        padding-top: 100px;
+    }
+
+    .tipoevento, .nomeevento, .quandoevento, .trajeevento, .cadastro-escolher{
+        padding: 20px;
+    }
+  
+    form > span{
+        padding-left: 20px;
+    }
+  
+    .nomeevento > div > .text{
+        width: 100%;
+    }
+  
+    .quandoevento > div > .date{
+        width: 50%;
+    }
+  
+    .quandoevento > div > .time{
+        width: 30%;
+    }
+  
+  }

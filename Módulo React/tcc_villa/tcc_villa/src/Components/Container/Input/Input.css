@@ -1,0 +1,11 @@
+.checkbox-menu{
+    position: fixed;
+    display: none;
+    top: 3%;
+    left: 5%;
+}
+
+.button{
+    width: 100%;
+    text-align: center;
+}

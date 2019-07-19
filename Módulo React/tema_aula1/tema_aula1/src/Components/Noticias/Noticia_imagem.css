@@ -1,0 +1,6 @@
+.noticia--imagem{
+    margin: 0 16px 0 0;
+  }
+  .noticia--imagem__img {
+    max-height: 250px;
+  }

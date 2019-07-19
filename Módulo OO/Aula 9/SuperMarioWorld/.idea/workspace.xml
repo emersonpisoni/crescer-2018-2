@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87074576-09fd-41bd-98e4-7213391905d2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/CriadorDeMapa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/CriadorDeMapa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/br/com/cwi/crescer/SuperMarioWorld/CriadorDeMapaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/br/com/cwi/crescer/SuperMarioWorld/CriadorDeMapaTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SuperMarioWorld$CriadorDeMapaTest_luigiNaoDevePularPqNaoTemAFireFlower.ic" NAME="CriadorDeMapaTest.luigiNaoDevePularPqNaoTemAFireFlower Coverage Results" MODIFIED="1537809428081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.br.com.cwi.crescer.SuperMarioWorld.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1127300569">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="28" />
+          <entry key="java" value="122" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="28" />
+          <entry key="JAVA" value="122" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="9610" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="9610" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/CriadorDeMapa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="209" column="5" selection-start-line="209" selection-start-column="5" selection-end-line="209" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#10202#10203#0" expanded="true" />
+                <element signature="e#10252#10253#0" expanded="true" />
+                <element signature="e#10543#10544#0" expanded="true" />
+                <element signature="e#10599#10600#0" expanded="true" />
+                <element signature="e#11791#11792#0" expanded="true" />
+                <element signature="e#11818#11819#0" expanded="true" />
+                <element signature="e#11859#11860#0" expanded="true" />
+                <element signature="e#11899#11900#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/SuperMarioWorld/CriadorDeMapaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="763">
+              <caret line="630" column="20" selection-start-line="630" selection-start-column="20" selection-end-line="630" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/SuperComputadorQueSabeJogarMario.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/ChainChomp.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Inimigos/ChainChomp.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Obstaculos/Inimigos/Inimigos.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Obstaculos/Inimigos/ChainChomp.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Obstaculos/Inimigos/Goomba.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Obstaculos/Inimigos/KoopraTroopa.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Obstaculos/Inimigos/PiranhaPlant.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Obstaculos/Obstaculos.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Obstaculos.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Itens/Item.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Inimigos/Inimigos.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Itens/CapeFeather.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Inimigos/ChainChomp.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Inimigos/Goomba.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Inimigos/KoopraTroopa.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Inimigos/PiranhaPlant.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Itens/FireFlower.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Elementos.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Herois/Herois.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Elemento.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Herois/Heroi.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Herois/Mario.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Herois/Luigi.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Buraco.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/PosicaoOcupadaException.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/HeroiJaAdicionadoException.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/NaoEPossivelCompletarAFase.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/SuperComputadorQueSabeJogarMario.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Cano.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/CriadorDeMapa.java" />
+        <option value="$PROJECT_DIR$/src/test/br/com/cwi/crescer/SuperMarioWorld/CriadorDeMapaTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="793" />
+    <option name="width" value="1134" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SuperMarioWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SuperMarioWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SuperMarioWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SuperMarioWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SuperMarioWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SuperMarioWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SuperMarioWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SuperMarioWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SuperMarioWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SuperMarioWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="Elementos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SuperMarioWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SuperMarioWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SuperMarioWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="Elementos" type="462c0819:PsiDirectoryNode" />
+              <item name="Obstaculos" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537860537785" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test.br.com.cwi.crescer.SuperMarioWorld" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CriadorDeMapaTest">
+    <configuration name="CriadorDeMapaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SuperMarioWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.cwi.crescer.SuperMarioWorld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.cwi.crescer.SuperMarioWorld" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.cwi.crescer.SuperMarioWorld.CriadorDeMapaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CriadorDeMapaTest.comAPenaVaiConseguirSaltarTudo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SuperMarioWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.cwi.crescer.SuperMarioWorld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.cwi.crescer.SuperMarioWorld" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.cwi.crescer.SuperMarioWorld.CriadorDeMapaTest" />
+      <option name="METHOD_NAME" value="comAPenaVaiConseguirSaltarTudo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CriadorDeMapaTest.comPenaOMarioConsegueSaltarEssesBuracos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SuperMarioWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.cwi.crescer.SuperMarioWorld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.cwi.crescer.SuperMarioWorld" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.cwi.crescer.SuperMarioWorld.CriadorDeMapaTest" />
+      <option name="METHOD_NAME" value="comPenaOMarioConsegueSaltarEssesBuracos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CriadorDeMapaTest.naoConsegueNeMario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SuperMarioWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.cwi.crescer.SuperMarioWorld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.cwi.crescer.SuperMarioWorld" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.cwi.crescer.SuperMarioWorld.CriadorDeMapaTest" />
+      <option name="METHOD_NAME" value="naoConsegueNeMario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CriadorDeMapaTest.naoRolaSaltarEssesBuracosPqNaoTemOndeAterrizarDoOutroLado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SuperMarioWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.cwi.crescer.SuperMarioWorld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.cwi.crescer.SuperMarioWorld" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.cwi.crescer.SuperMarioWorld.CriadorDeMapaTest" />
+      <option name="METHOD_NAME" value="naoRolaSaltarEssesBuracosPqNaoTemOndeAterrizarDoOutroLado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CriadorDeMapaTest" />
+      <item itemvalue="JUnit.CriadorDeMapaTest.comAPenaVaiConseguirSaltarTudo" />
+      <item itemvalue="JUnit.CriadorDeMapaTest.naoConsegueNeMario" />
+      <item itemvalue="JUnit.CriadorDeMapaTest.comPenaOMarioConsegueSaltarEssesBuracos" />
+      <item itemvalue="JUnit.CriadorDeMapaTest.naoRolaSaltarEssesBuracosPqNaoTemOndeAterrizarDoOutroLado" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CriadorDeMapaTest" />
+        <item itemvalue="JUnit.CriadorDeMapaTest.naoRolaSaltarEssesBuracosPqNaoTemOndeAterrizarDoOutroLado" />
+        <item itemvalue="JUnit.CriadorDeMapaTest.comPenaOMarioConsegueSaltarEssesBuracos" />
+        <item itemvalue="JUnit.CriadorDeMapaTest.naoConsegueNeMario" />
+        <item itemvalue="JUnit.CriadorDeMapaTest.comAPenaVaiConseguirSaltarTudo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87074576-09fd-41bd-98e4-7213391905d2" name="Default" comment="" />
+      <created>1537550074049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537550074049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CriadorDeMapaTest - 2018.09.25 at 03h 39m 04s.xml">
+      <configuration name="CriadorDeMapaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CriadorDeMapaTest - 2018.09.25 at 03h 46m 29s.xml">
+      <configuration name="CriadorDeMapaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CriadorDeMapaTest - 2018.09.25 at 03h 50m 29s.xml">
+      <configuration name="CriadorDeMapaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CriadorDeMapaTest - 2018.09.25 at 03h 52m 17s.xml">
+      <configuration name="CriadorDeMapaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CriadorDeMapaTest - 2018.09.25 at 04h 05m 21s.xml">
+      <configuration name="CriadorDeMapaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CriadorDeMapaTest - 2018.09.25 at 04h 07m 43s.xml">
+      <configuration name="CriadorDeMapaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CriadorDeMapaTest - 2018.09.25 at 04h 08m 39s.xml">
+      <configuration name="CriadorDeMapaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CriadorDeMapaTest_comAPenaVaiConseguirSaltarTudo - 2018.09.25 at 04h 22m 07s.xml">
+      <configuration name="CriadorDeMapaTest.comAPenaVaiConseguirSaltarTudo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CriadorDeMapaTest_naoConsegueNeMario - 2018.09.25 at 04h 23m 37s.xml">
+      <configuration name="CriadorDeMapaTest.naoConsegueNeMario" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CriadorDeMapaTest_comPenaOMarioConsegueSaltarEssesBuracos - 2018.09.25 at 04h 26m 00s.xml">
+      <configuration name="CriadorDeMapaTest.comPenaOMarioConsegueSaltarEssesBuracos" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="793" y="0" width="1134" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.27598828" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32591414" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32750398" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.27820373" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.25301206" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.39060205" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.27598828" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3274918" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32750398" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2782194" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.5405405" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.39060205" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="i" />
+        <watch expression="i" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Inimigos/KoopaTroopa.java" />
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Itens.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Supplier.java" />
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Inimigos/Goomba.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Obstaculos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Itens/FireFlower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Inimigos/PiranhaPlant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Inimigos/KoopraTroopa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Buraco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class" />
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/HeroiJaAdicionadoException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="70" lean-forward="true" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/NaoEPossivelCompletarAFase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Herois/Luigi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Herois/Heroi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Herois/Mario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Itens/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Inimigos/Inimigos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Inimigos/ChainChomp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Itens/CapeFeather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar!/org/junit/jupiter/api/Assertions.class" />
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/PosicaoOcupadaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar!/org/junit/jupiter/api/function/Executable.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar!/org/junit/platform/commons/util/ReflectionUtils.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.0/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class" />
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Obstaculos/Cano.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/Elementos/Elemento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/SuperComputadorQueSabeJogarMario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/SuperMarioWorld/CriadorDeMapa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="209" column="5" selection-start-line="209" selection-start-column="5" selection-end-line="209" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#10202#10203#0" expanded="true" />
+            <element signature="e#10252#10253#0" expanded="true" />
+            <element signature="e#10543#10544#0" expanded="true" />
+            <element signature="e#10599#10600#0" expanded="true" />
+            <element signature="e#11791#11792#0" expanded="true" />
+            <element signature="e#11818#11819#0" expanded="true" />
+            <element signature="e#11859#11860#0" expanded="true" />
+            <element signature="e#11899#11900#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/SuperMarioWorld/CriadorDeMapaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="630" column="20" selection-start-line="630" selection-start-column="20" selection-end-line="630" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SuperMarioWorld</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

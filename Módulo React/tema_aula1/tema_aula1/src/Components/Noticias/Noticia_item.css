@@ -1,0 +1,10 @@
+.noticia--item{
+    display: flex;
+    height: 250px;
+    position: relative;
+    justify-content: flex-start;
+    margin: 5px;
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+    }
+    

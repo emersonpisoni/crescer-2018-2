@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0d86d08-18d3-452d-8ce6-3e43c05ce82e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1727882910">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="441" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="441" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/Personagem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+              <folding>
+                <element signature="e#919#920#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
+                <element signature="e#1091#1092#0" expanded="true" />
+                <element signature="e#1119#1120#0" expanded="true" />
+                <element signature="e#1146#1147#0" expanded="true" />
+                <element signature="e#1201#1202#0" expanded="true" />
+                <element signature="e#1255#1256#0" expanded="true" />
+                <element signature="e#1305#1306#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/RaidenTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/ShaoKahn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/ShaoKahnTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/SubZero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/SubZeroTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/SoniaBlade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Jogadores/Jogador.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#672#673#0" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+                <element signature="e#909#910#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Partida/Partida.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/PartidaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/MortalKombat1/Personagens/ShaoKahn.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/ShaoKahn.java" />
+        <option value="$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/JogadorTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Partida/PartidaVSMaquina.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Jogadores/Maquina.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Partida/Partida.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Jogadores/Jogador.java" />
+        <option value="$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/Personagem.java" />
+        <option value="$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/RaidenTest.java" />
+        <option value="$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/ShaoKahnTest.java" />
+        <option value="$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/SubZeroTest.java" />
+        <option value="$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/PartidaTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Mortal Kombat 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mortal Kombat 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mortal Kombat 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mortal Kombat 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mortal Kombat 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mortal Kombat 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mortalkombat1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mortal Kombat 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mortal Kombat 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mortalkombat1" type="462c0819:PsiDirectoryNode" />
+              <item name="Jogadores" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mortal Kombat 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mortal Kombat 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mortalkombat1" type="462c0819:PsiDirectoryNode" />
+              <item name="Partida" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mortal Kombat 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mortal Kombat 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mortalkombat1" type="462c0819:PsiDirectoryNode" />
+              <item name="Personagens" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537233309757" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Aula 6" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test.br.com.cwi.crescer.mortalkombat1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CWI Arquivos\emerson.fraga\Módulo OO\Aula 5\Mortal Kombat 1\src\test\br\com\cwi\crescer\mortalkombat1" />
+      <recent name="D:\CWI Arquivos\emerson.fraga\Módulo OO\Aula 5\Mortal Kombat 1\src\br\com\cwi\crescer\MortalKombat1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PartidaTest.iniciarBatalha">
+    <configuration name="PartidaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mortal Kombat 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.cwi.crescer.mortalkombat1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.cwi.crescer.mortalkombat1" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.cwi.crescer.mortalkombat1.PartidaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartidaTest.iniciarBatalha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mortal Kombat 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.cwi.crescer.mortalkombat1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.cwi.crescer.mortalkombat1" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.cwi.crescer.mortalkombat1.PartidaTest" />
+      <option name="METHOD_NAME" value="iniciarBatalha" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaidenTest.aumentarVidaDoRaidenQuandoReceberDoisAtaques" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mortal Kombat 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.cwi.crescer.mortalkombat1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.cwi.crescer.mortalkombat1" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.cwi.crescer.mortalkombat1.RaidenTest" />
+      <option name="METHOD_NAME" value="aumentarVidaDoRaidenQuandoReceberDoisAtaques" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShaoKahnTest.testaAumentarDanoDoShaoKhanQuandoEleAtaca" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mortal Kombat 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.cwi.crescer.mortalkombat1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.cwi.crescer.mortalkombat1" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.cwi.crescer.mortalkombat1.ShaoKahnTest" />
+      <option name="METHOD_NAME" value="testaAumentarDanoDoShaoKhanQuandoEleAtaca" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubZeroTest.testaAumentarDanoQuandoReceberDano" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mortal Kombat 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.cwi.crescer.mortalkombat1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.cwi.crescer.mortalkombat1" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.cwi.crescer.mortalkombat1.SubZeroTest" />
+      <option name="METHOD_NAME" value="testaAumentarDanoQuandoReceberDano" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.PartidaTest.iniciarBatalha" />
+      <item itemvalue="JUnit.RaidenTest.aumentarVidaDoRaidenQuandoReceberDoisAtaques" />
+      <item itemvalue="JUnit.ShaoKahnTest.testaAumentarDanoDoShaoKhanQuandoEleAtaca" />
+      <item itemvalue="JUnit.SubZeroTest.testaAumentarDanoQuandoReceberDano" />
+      <item itemvalue="JUnit.PartidaTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PartidaTest.iniciarBatalha" />
+        <item itemvalue="JUnit.PartidaTest" />
+        <item itemvalue="JUnit.SubZeroTest.testaAumentarDanoQuandoReceberDano" />
+        <item itemvalue="JUnit.ShaoKahnTest.testaAumentarDanoDoShaoKhanQuandoEleAtaca" />
+        <item itemvalue="JUnit.RaidenTest.aumentarVidaDoRaidenQuandoReceberDoisAtaques" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0d86d08-18d3-452d-8ce6-3e43c05ce82e" name="Default Changelist" comment="" />
+      <created>1537121154886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537121154886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PartidaTest_iniciarBatalha - 2018.09.16 at 15h 21m 12s.xml">
+      <configuration name="PartidaTest.iniciarBatalha" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PartidaTest_iniciarBatalha - 2018.09.16 at 15h 21m 25s.xml">
+      <configuration name="PartidaTest.iniciarBatalha" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PartidaTest_iniciarBatalha - 2018.09.16 at 15h 21m 49s.xml">
+      <configuration name="PartidaTest.iniciarBatalha" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PartidaTest_iniciarBatalha - 2018.09.16 at 15h 24m 18s.xml">
+      <configuration name="PartidaTest.iniciarBatalha" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RaidenTest_aumentarVidaDoRaidenQuandoReceberDoisAtaques - 2018.09.16 at 15h 27m 44s.xml">
+      <configuration name="RaidenTest.aumentarVidaDoRaidenQuandoReceberDoisAtaques" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShaoKahnTest_testaAumentarDanoDoShaoKhanQuandoEleAtaca - 2018.09.16 at 15h 29m 00s.xml">
+      <configuration name="ShaoKahnTest.testaAumentarDanoDoShaoKhanQuandoEleAtaca" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubZeroTest_testaAumentarDanoQuandoReceberDano - 2018.09.16 at 15h 30m 18s.xml">
+      <configuration name="SubZeroTest.testaAumentarDanoQuandoReceberDano" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PartidaTest - 2018.09.16 at 16h 46m 46s.xml">
+      <configuration name="PartidaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PartidaTest_iniciarBatalha - 2018.09.16 at 16h 49m 06s.xml">
+      <configuration name="PartidaTest.iniciarBatalha" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29067245" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32968238" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/aula4/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/PosicionarPersonagensTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/JogadorTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/PartidaVSMaquinaTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Jogadores/Maquina.java" />
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/Scorpion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Partida/PartidaVSMaquina.java" />
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/LiuKang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/Raiden.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/Personagem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1091#1092#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+            <element signature="e#1146#1147#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+            <element signature="e#1305#1306#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/RaidenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/ShaoKahn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/ShaoKahnTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/SubZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/SubZeroTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Personagens/SoniaBlade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Jogadores/Jogador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/cwi/crescer/mortalkombat1/Partida/Partida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/br/com/cwi/crescer/mortalkombat1/PartidaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

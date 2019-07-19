@@ -1,0 +1,3 @@
+class PecaError extends Error{
+
+}

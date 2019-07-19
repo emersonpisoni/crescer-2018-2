@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5687c24-fbc5-4da1-b517-3e8cb8170da5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/motorista/Motorista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/motorista/Motorista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/passageiro/Passageiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/passageiro/Passageiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/security/UserPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/security/UserPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/AvaliacaoPassageiroService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/AvaliacaoPassageiroService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/motorista/SalvarMotoristaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/motorista/SalvarMotoristaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/passageiro/SalvarPassageiroService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/passageiro/SalvarPassageiroService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/CorridaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/CorridaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/MotoristaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/MotoristaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/PassageiroController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/PassageiroController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/PublicController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/VeiculoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/VeiculoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/domain/pessoa/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/domain/pessoa/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/domain/pessoa/motorista/Motorista.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/domain/pessoa/motorista/Motorista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/domain/pessoa/passageiro/Passageiro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/domain/pessoa/passageiro/Passageiro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/security/UserPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/security/UserPrincipal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/security/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/security/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/service/corrida/AvaliacaoPassageiroService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/service/corrida/AvaliacaoPassageiroService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/service/motorista/SalvarMotoristaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/service/motorista/SalvarMotoristaService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/service/passageiro/SalvarPassageiroService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/service/passageiro/SalvarPassageiroService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/web/CorridaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/web/CorridaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/web/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/web/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/web/MotoristaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/web/MotoristaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/web/PassageiroController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cwi/crescer/melevaai/web/PassageiroController.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1515612560">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="64" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="64" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="25" />
+          <entry key="java" value="1711" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1711" />
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-171135444">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="95" />
+          <entry key="xml" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="95" />
+          <entry key="XML" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="6982" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6982" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1332140533">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="284" />
+          <entry key="xml" value="2" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="284" />
+          <entry key="XML" value="2" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="167" />
+          <entry key="java" value="8535" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8535" />
+          <entry key="PLAIN_TEXT" value="167" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-250827225">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="81" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="81" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="14" />
+          <entry key="java" value="1118" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1118" />
+          <entry key="PLAIN_TEXT" value="14" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/MotoristaController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="57" column="37" lean-forward="true" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/AdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/VeiculoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/security/WebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="77" column="59" lean-forward="true" selection-start-line="77" selection-start-column="59" selection-end-line="77" selection-end-column="59" />
+              <folding>
+                <element signature="e#2029#2030#0" expanded="true" />
+                <element signature="e#2079#2080#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/PassageiroController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/motorista/SalvarMotoristaService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/Pessoa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <element signature="e#714#715#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/passageiro/SalvarPassageiroService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/admin/SalvarAdminService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/repository/pessoa/PessoaRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>assertNotEquals(</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>assertNotEquals(Categoria.</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/repository/passageiro/PassageiroRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/passageiro/BuscarTodosPassageirosService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/motorista/BuscarTodosMotoristasService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/veiculo/BuscarTodosVeiculosService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/banner.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/dto/CorridaDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/repository/motorista/MotoristaRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/veiculo/Veiculo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/veiculo/request/RequestVeiculo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/ProjecaoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/IniciarCorridaService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/FinalizarCorridaService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/dto/CustosCorridaDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/dto/CustoPorPassageiro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/corrida/Corrida.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/dto/CustoPorPassageiroDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/BuscarGastosPassageirosPorDataService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/BuscarGastosCorridasService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/SalvarCorridaService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/cwi/crescer/melevaai/service/veiculo/BuscarVeiculoRandomServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/repository/veiculo/VeiculoRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/veiculo/BuscarVeiculoRandomService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/repository/corrida/CorridaRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/carteira/CarteiraHabilitacao.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/cwi/crescer/melevaai/service/veiculo/SalvarVeiculoServiceTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/repository/pessoa/PessoaRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/security/CustomUserDetailsService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/PublicController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/PessoaRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/response/LoginResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/request/LoginRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/passageiro/SalvarPassageiroService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/motorista/SalvarMotoristaService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/Perfil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/motorista/Motorista.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/passageiro/Passageiro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/security/UserPrincipal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/AvaliacaoPassageiroService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/MotoristaController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/PassageiroController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/VeiculoController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/admin/Admin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/CorridaController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/admin/SalvarMotoristaService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/admin/SalvarAdminService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/security/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/AdminController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="me-leva-ai" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="872" />
+    <option name="width" value="1055" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages PackagesPane="false" ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="me-leva-ai" type="58d84e3e:PackageViewProjectNode" />
+              <item name="me-leva-ai" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="58d84e3e:PackageViewProjectNode" />
+              <item name="me-leva-ai" type="616d4139:PackageViewModuleNode" />
+              <item name="br.com.cwi.crescer" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="melevaai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="melevaai" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="melevaai" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="pessoa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="melevaai" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="melevaai" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name="pessoa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="melevaai" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="melevaai" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="melevaai" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="melevaai" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="motorista" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="melevaai" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="melevaai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="me-leva-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="melevaai-back" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="melevaai" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542095543730" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/br/com/cwi/crescer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.cwi.crescer.melevaai.service.veiculo" />
+      <recent name="br.com.cwi.crescer.melevaai.service.corrida" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.cwi.crescer.melevaai" />
+      <recent name="br.com.cwi.crescer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.cwi.crescer.melevaai.repository.pessoa" />
+      <recent name="br.com.cwi.crescer.melevaai.service.corrida" />
+      <recent name="br.com.cwi.crescer.melevaai.domain.veiculo.request" />
+      <recent name="br.com.cwi.crescer.melevaai.service.veiculo" />
+      <recent name="br.com.cwi.crescer.melevaai.service.passageiro" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\emerson.fraga\Desktop\emerson.fraga\Módulo Java\melevaai\melevaai-back\src\main\java\br\com\cwi\crescer\melevaai\security" />
+      <recent name="C:\Users\Emerson\Desktop\emerson.fraga\Módulo Java\melevaai\melevaai-back\src\main\java\br\com\cwi\crescer\melevaai\service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.cwi.crescer.domain.Pessoa.Passageiro" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MeLevaAiApplication (1)">
+    <configuration name="MeLevaAiApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cwi.crescer.melevaai.MeLevaAiApplication" />
+      <module name="me-leva-ai" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cwi.crescer.melevaai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuscarVeiculoRandomServiceTest.buscarVeiculoRandom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="me-leva-ai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cwi.crescer.melevaai.service.veiculo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.cwi.crescer.melevaai.service.veiculo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.cwi.crescer.melevaai.service.veiculo.BuscarVeiculoRandomServiceTest" />
+      <option name="METHOD_NAME" value="buscarVeiculoRandom" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuscarVeiculoRandomServiceTest.buscarVeiculoRandomIndisponível" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="me-leva-ai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cwi.crescer.melevaai.service.veiculo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.cwi.crescer.melevaai.service.veiculo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.cwi.crescer.melevaai.service.veiculo.BuscarVeiculoRandomServiceTest" />
+      <option name="METHOD_NAME" value="buscarVeiculoRandomIndisponível" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalvarVeiculoServiceTest.testaCriarVeiculoComCnhDiferenteDoMotorista" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="me-leva-ai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cwi.crescer.melevaai.service.veiculo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.cwi.crescer.melevaai.service.veiculo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.cwi.crescer.melevaai.service.veiculo.SalvarVeiculoServiceTest" />
+      <option name="METHOD_NAME" value="testaCriarVeiculoComCnhDiferenteDoMotorista" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalvarVeiculoServiceTest.testaCriarVeiculoComCnhIgualDoMotorista" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="me-leva-ai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cwi.crescer.melevaai.service.veiculo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.cwi.crescer.melevaai.service.veiculo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.cwi.crescer.melevaai.service.veiculo.SalvarVeiculoServiceTest" />
+      <option name="METHOD_NAME" value="testaCriarVeiculoComCnhIgualDoMotorista" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MeLevaAiApplication (1)" />
+      <item itemvalue="JUnit.SalvarVeiculoServiceTest.testaCriarVeiculoComCnhDiferenteDoMotorista" />
+      <item itemvalue="JUnit.BuscarVeiculoRandomServiceTest.buscarVeiculoRandom" />
+      <item itemvalue="JUnit.BuscarVeiculoRandomServiceTest.buscarVeiculoRandomIndisponível" />
+      <item itemvalue="JUnit.SalvarVeiculoServiceTest.testaCriarVeiculoComCnhIgualDoMotorista" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MeLevaAiApplication (1)" />
+        <item itemvalue="JUnit.SalvarVeiculoServiceTest.testaCriarVeiculoComCnhIgualDoMotorista" />
+        <item itemvalue="JUnit.BuscarVeiculoRandomServiceTest.buscarVeiculoRandomIndisponível" />
+        <item itemvalue="JUnit.BuscarVeiculoRandomServiceTest.buscarVeiculoRandom" />
+        <item itemvalue="JUnit.SalvarVeiculoServiceTest.testaCriarVeiculoComCnhDiferenteDoMotorista" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5687c24-fbc5-4da1-b517-3e8cb8170da5" name="Default Changelist" comment="" />
+      <created>1540866461377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540866461377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BuscarVeiculoRandomServiceTest_buscarVeiculoRandomIndisponível - 2018.11.07 at 04h 38m 43s.xml">
+      <configuration name="BuscarVeiculoRandomServiceTest.buscarVeiculoRandomIndisponível" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BuscarVeiculoRandomServiceTest_buscarVeiculoRandomIndisponível - 2018.11.07 at 04h 40m 16s.xml">
+      <configuration name="BuscarVeiculoRandomServiceTest.buscarVeiculoRandomIndisponível" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SalvarVeiculoServiceTest_testaCriarVeiculoComCnhIgualDoMotorista - 2018.11.07 at 14h 47m 46s.xml">
+      <configuration name="SalvarVeiculoServiceTest.testaCriarVeiculoComCnhIgualDoMotorista" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SalvarVeiculoServiceTest_testaCriarVeiculoComCnhIgualDoMotorista - 2018.11.07 at 14h 49m 00s.xml">
+      <configuration name="SalvarVeiculoServiceTest.testaCriarVeiculoComCnhIgualDoMotorista" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SalvarVeiculoServiceTest_testaCriarVeiculoComCnhIgualDoMotorista - 2018.11.12 at 03h 11m 49s.xml">
+      <configuration name="SalvarVeiculoServiceTest.testaCriarVeiculoComCnhIgualDoMotorista" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SalvarVeiculoServiceTest_testaCriarVeiculoComCnhIgualDoMotorista - 2018.11.12 at 03h 34m 12s.xml">
+      <configuration name="SalvarVeiculoServiceTest.testaCriarVeiculoComCnhIgualDoMotorista" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SalvarVeiculoServiceTest_testaCriarVeiculoComCnhIgualDoMotorista - 2018.11.12 at 03h 34m 47s.xml">
+      <configuration name="SalvarVeiculoServiceTest.testaCriarVeiculoComCnhIgualDoMotorista" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SalvarVeiculoServiceTest_testaCriarVeiculoComCnhIgualDoMotorista - 2018.11.12 at 03h 35m 55s.xml">
+      <configuration name="SalvarVeiculoServiceTest.testaCriarVeiculoComCnhIgualDoMotorista" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SalvarVeiculoServiceTest_testaCriarVeiculoComCnhIgualDoMotorista - 2018.11.12 at 03h 38m 11s.xml">
+      <configuration name="SalvarVeiculoServiceTest.testaCriarVeiculoComCnhIgualDoMotorista" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SalvarVeiculoServiceTest_testaCriarVeiculoComCnhIgualDoMotorista - 2018.11.12 at 04h 00m 20s.xml">
+      <configuration name="SalvarVeiculoServiceTest.testaCriarVeiculoComCnhIgualDoMotorista" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="872" y="0" width="1055" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6111111" visible="true" weight="0.21708542" />
+      <window_info id="Structure" order="1" sideWeight="0.3888889" side_tool="true" weight="0.1983471" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.32838285" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.34173056" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49946696" visible="true" weight="0.15881708" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.44468784" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32968238" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.4067245" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32968238" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32968238" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2464403" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32980332" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24962178" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>corrida.setTempoPrevisto(tempoRandom())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String passwordCrypted = password.encode(novoPassageiro.getSenha());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/com/cwi/crescer/melevaai/service/corrida/SalvarCorridaServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/com/cwi/crescer/melevaai/service/veiculo/BuscarVeiculoRandomServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.21.0/mockito-core-2.21.0-sources.jar!/org/mockito/internal/debugging/LocationImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.21.0/mockito-core-2.21.0-sources.jar!/org/mockito/internal/creation/bytebuddy/MockMethodInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/repository/veiculo/VeiculoRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/com/cwi/crescer/melevaai/service/veiculo/SalvarVeiculoServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/veiculo/SalvarVeiculoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/util/PropertyPlaceholderHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="97" column="36" lean-forward="true" selection-start-line="97" selection-start-column="36" selection-end-line="97" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/MeLevaAiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/web/context/request/AbstractRequestAttributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.34/tomcat-embed-core-8.5.34-sources.jar!/org/apache/catalina/core/ApplicationFilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/response/LoginResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/request/LoginRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.9.RELEASE/spring-security-core-5.0.9.RELEASE-sources.jar!/org/springframework/security/authentication/AbstractAuthenticationToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.9.RELEASE/spring-security-core-5.0.9.RELEASE-sources.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.9.RELEASE/spring-security-config-5.0.9.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="511" selection-start-line="511" selection-end-line="511" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.10.RELEASE/spring-webmvc-5.0.10.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="898" selection-start-line="898" selection-end-line="898" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.10.RELEASE/spring-webmvc-5.0.10.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="930" selection-start-line="930" selection-end-line="930" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.10.RELEASE/spring-webmvc-5.0.10.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="985" selection-start-line="985" selection-end-line="985" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/security/JwtAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/security/JwtTokenProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/passageiro/Passageiro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/passageiro/BuscarPassageiroService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/corrida/Corrida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/security/UserPrincipal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="46" column="4" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/BuscarCorridaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/SalvarCorridaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/AvaliacaoPassageiroService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/repository/corrida/CorridaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/security/AuthenticationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/corrida/BuscarTodasCorridasPorIdPassageiroService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/PublicController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/Perfil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/motorista/Motorista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#1237#1238#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/CorridaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="e#2236#2237#0" expanded="true" />
+            <element signature="e#2313#2314#0" expanded="true" />
+            <element signature="e#2394#2395#0" expanded="true" />
+            <element signature="e#2472#2473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/security/CustomUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/admin/SalvarAdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/admin/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/passageiro/SalvarPassageiroService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/service/motorista/SalvarMotoristaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/repository/pessoa/PessoaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/domain/pessoa/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/MotoristaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="57" column="37" lean-forward="true" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/security/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="77" column="59" lean-forward="true" selection-start-line="77" selection-start-column="59" selection-end-line="77" selection-end-column="59" />
+          <folding>
+            <element signature="e#2029#2030#0" expanded="true" />
+            <element signature="e#2079#2080#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/VeiculoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/PassageiroController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/cwi/crescer/melevaai/web/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>me-leva-ai</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="install:install-file -Dfile=c:\driver\ojdbc6-11.2.0.4.jar -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0.4 -Dpackaging=jar" />
+  </component>
+</project>

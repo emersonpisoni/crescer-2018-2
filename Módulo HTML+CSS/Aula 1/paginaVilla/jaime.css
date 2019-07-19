@@ -1,0 +1,648 @@
+body{
+    background-color:#ccc;
+    position: relative;
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    margin-top: 80px;
+    display: flex;
+    background-color: #ccc;
+    padding-bottom: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 20%;
+}
+
+.header{
+    padding: 18px 20px;
+    align-items: center;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    justify-content: space-between;
+    color: white;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.header-logo{
+    display: flex;
+    align-items: center;
+}
+
+.header-search{
+    display: flex;
+    align-items: center;
+    width: 500px;
+    height: 100%;
+    margin: 0 10px;
+    font-family: 'Roboto';
+    background-color: #7E7E7E;
+    border-radius: 5px;
+    color: white;
+}
+
+.header-end{
+    display: flex;
+    align-items: center;
+}
+
+.header-lupa{
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+}
+
+.text-title{
+    font-family: 'Raleway';
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-content: center;
+    padding: 10px 0;
+}
+
+
+
+.grupos{
+    display: flex;
+    flex-direction: column;
+    padding: 30px 0;
+    border-bottom: 1px solid #C4C4C4;
+
+}
+
+.grupos-header{
+    display: flex;
+    height: 10px;
+    font-family: 'Roboto';
+    padding: 0 5px 0 5px;
+    margin-bottom: 10px;
+}
+
+.grupos-meus{
+    width: 80%;
+}
+
+.grupos-opcoes{
+    width: 20%;
+    text-align: end;
+}
+
+
+.like{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    border-right: 1px solid #C4C4C4;
+
+}
+
+.like-text{
+    height: 100%;
+    padding-left: 5px;
+}
+
+.like-image{
+    height: 100%;
+}
+
+.grupos-grupo{
+    display: flex;
+    font-size: 16px;
+    align-items: center;
+    font-family: 'Roboto Condensed';
+    padding: 5px 5px;
+}
+
+.grupos-image{
+    height: 35px;
+    width: 35px;
+    padding: 5px;
+}
+
+.grupos-text{
+    color: #5C5C5C;
+    width: 70%;
+    padding-left: 10px;
+}
+
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    position: absolute;
+    background-color: white;
+    width: 20%;
+    height: 100%;
+    left: 0;
+    justify-content: flex-start;
+}
+
+.sidebar-perfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:  30px 0; 
+    border-bottom: 1px solid #C4C4C4;
+}
+
+.sidebar-image{
+    overflow: hidden;
+    align-content: center;
+}
+
+.sidebar-image > img{
+    border-radius: 50%;
+}
+
+.sidebar-name{
+    font-family: 'Raleway';
+    padding: 10px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.sidebar-button{
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+    width: 80%;
+    height: 50px;
+    padding: 0 30px;
+    background-color: #32363F;
+}
+
+.card{
+    margin: 11px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: calc(100% - 22px);
+    max-width: 507px;
+}
+
+.card-text{
+    padding: 30px;
+}
+
+.card-text-post{
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: #5C5C5C;
+}
+
+.feed{
+    display: flex;
+    padding: 11px;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: center;
+}
+
+.cadastro{
+    display: flex;
+    flex-direction: column;
+    padding: 11px;
+    margin: 15px;
+    width: calc(100% - 10px);
+    align-items: baseline;
+    justify-content: center;
+    background-color: white;
+    font-family: "Roboto";
+    border-radius: 5px;
+}
+
+.cadastro > form{
+    width: 100%;
+}
+
+.cadastro-escolher{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+
+.cadastro > div{
+    padding: 10px;
+}
+
+
+.cadastro-escolher > label{
+    cursor: pointer;
+    display: flex;
+    width: 30%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cadastro-escolher > label > img{
+    max-width: 100%;
+}
+
+.cadastro-escolher > label > span{
+    color: #5C5C5C;
+    text-align: start;
+    flex: 1;
+}
+
+.cadastro-escolher > label:hover{
+    display: flex;
+    border: 1px solid turquoise;
+    padding: 10px;
+    margin: 0 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cadastro-escolher > label > img{
+    border-radius: 50%;
+}
+
+.cadastro-button{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 50px ;
+}
+
+.cadastro-button > div{
+    padding: 10px;
+    width: 20%;
+}
+
+.tipoevento, .nomeevento, .quandoevento, .trajeevento{
+    padding: 20px 0;
+}
+
+input.text{
+    width: 30%;
+    height: 56px;
+}
+
+.header-search > input.text{
+    height: 44px;
+    background-color: #7E7E7E;
+    width: 100%;
+}
+
+.header-search > ::-webkit-input-placeholder{
+    color: white;
+}
+
+input.date{
+    height: 56px;
+    width: 30%;
+}
+
+input.time{
+    height: 56px;
+    width: 15%;
+}
+
+select{
+    height: 56px;
+    width: 30%
+}
+
+input.cancelar{
+    font-family: 'Roboto';
+    color: white;
+    height: 50px;
+    background-color: #929292;
+    border-radius: 3px;
+    width: 100%;
+}
+
+input.cancelar:hover{
+    font-family: 'Roboto';
+    color: white;
+    height: 50px;
+    background-color: #929292;
+    border-radius: 3px;
+    width: 100%;
+    border: 1px solid turquoise;
+
+}
+
+input.criarevento{
+    font-family: 'Roboto';
+    color: white;
+    height: 50px;
+    background-color: #32363F;
+    border-radius: 3px;
+    width: 100%;
+}
+
+input.criarevento:hover{
+    font-family: 'Roboto';
+    color: white;
+    height: 50px;
+    background-color: #32363F;
+    border-radius: 3px;
+    width: 100%;
+    border: 1px solid turquoise;
+}
+
+.evento{
+    padding:  30px 0; 
+}
+
+.image{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.text{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.robotocond{
+    font-family: 'Roboto condensed';
+}
+
+.raleway{
+    font-family: 'Raleway';
+}
+
+.segoe{
+    font-family: 'Segoe UI';
+    color: #A5A9AC;
+    font-style: italic;
+}
+.user {
+    padding: 30px 0;
+    display: flex;
+    align-content: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+.button{
+    font-family: 'Roboto';
+    font-size: 16px;
+    display: flex;
+    width: 100%;
+    height: 70px;
+    align-items: center;
+    justify-content: space-around;
+    color: #929292;
+}
+
+.mais{
+    width: 40%;
+    height: 30px;
+    background-color: #32363F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+    font-family: 'Roboto';
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px 30px;
+    position: absolute;
+    bottom: 3px;
+}
+
+.image-post{
+    display: flex;
+    margin: 5px 0;
+    align-items: center;
+}
+
+.menu-burguer, .checkbox-menu{
+    position: fixed;
+    display: none;
+    top: 3%;
+    left: 5%;
+}
+
+.menu-burguer{
+    font-size: 250%;
+    position: relative;
+}
+
+.amarelo{
+    display: none;
+}
+
+.criareventopontos{
+    width: 8%;
+    transform: translateX(-100%);
+    position: absolute;
+}
+  
+.submenu{
+    border: 1px solid black;
+    position: relative;
+    width: 100px;
+    background: #f9f9f9;
+    margin-top: 7px;
+    padding-left: 0;
+    bottom: 10px;
+    display: none;
+    border-radius: 10px;
+}
+
+.submenu > label{
+    align-items: center;
+    width: 100%;
+}
+
+.submenu > label > li{
+    list-style-type: none;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.submenu > label > li > a{
+    text-decoration: none;
+}
+
+.submenu > label > li > a:hover{
+    color: white;
+}
+
+.submenu > label > li:hover{
+    background-color: #5C5C5C;
+    color: white;
+}
+
+.pontos-criar:hover .submenu{
+      display: block;
+  }
+
+@media (max-width: 1000px){
+
+    .card{
+        width: 100%;
+    }
+}
+
+@media (max-width: 800px){
+
+    #pontos-criar:hover .criareventopontos{
+        transform: translateX(0);
+    }
+
+    .menu-burguer{
+        display: block;
+    }
+
+    #menu-mostrar:checked ~ .sidebar{
+        transform: translateX(0);
+        transition: cubic-bezier(0.075, 0.82, 0.165, 1) .5s;
+        box-shadow: 100px 0px 50px rgba(0, 0, 0, 0.25);
+    }
+
+    #menu-mostrar:checked ~ .header{
+        color: yellow;
+    }
+
+    #menu-mostrar:checked ~ .cadastro{
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+    
+    .header-logo{
+        flex: 1;
+        justify-content: center;
+        padding-left: 20px;
+    }
+
+    .header-logo > img{
+        max-width: 80%;
+    }
+
+    .header-search{
+        display: flex;
+        align-items: center;
+        width: 100px;
+        height: 100%;
+        margin: 0 10px;
+        font-family: 'Roboto';
+        background-color: #7E7E7E;
+        border-radius: 5px;
+        color: white;
+    }
+
+    .header-search > ::-webkit-input-placeholder{
+        color: #7E7E7E;
+    }
+
+    .sidebar{
+        transform: translateX(-120%);
+        flex-direction: column;
+        padding: 10px;
+        position: absolute;
+        background-color: #32363F;
+        color: white;
+        width: 75%;
+        height: 100%;
+        left: 0;
+        top: 80px;
+        justify-content: flex-start;
+
+    }
+
+    .grupos-text{
+        color: white;
+    }
+
+    .sidebar-image > img{
+        border: 3px solid black;
+        box-shadow: #32363F;
+    }
+
+    .container{
+        flex-direction: column;
+        margin: 0;
+        align-items: center;
+    }
+
+    .feed, .cadastro{
+        padding-top: 100px;
+    }
+
+    .cadastro-escolher{
+        flex-direction: column;
+    }
+
+    .cadastro-escolher > label{
+        display: flex;
+        width: 100%;
+        border: 1px solid black;
+        padding: 10px;
+        margin: 0 5px;
+        align-items: center;
+    }
+
+    .cadastro-button{
+        margin-top: 50px ;
+    }
+    
+    .cadastro-button > div{
+        width: 100%;
+        padding: 0;
+    }
+
+    .cadastro{
+        padding: 0;
+        margin-top: 100px;
+    }
+
+    .tipoevento, .nomeevento, .quandoevento, .trajeevento, .cadastro-escolher{
+        padding: 20px;
+    }
+
+    form > span{
+        padding-left: 20px;
+    }
+
+    .nomeevento > div > .text{
+        width: 100%;
+    }
+
+    .quandoevento > div > .date{
+        width: 50%;
+    }
+
+    .quandoevento > div > .time{
+        width: 30%;
+    }
+
+}
